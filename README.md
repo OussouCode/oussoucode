@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 - [Francis Oussou](oussoucode.github.io/)
+- [Federal University of Technology](https://futa.edu.ng/)
 - 😀😀😀😀😀😀😀😀😀
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
