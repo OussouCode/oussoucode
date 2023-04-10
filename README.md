@@ -1,7 +1,5 @@
 ### Francis E. Oussou
-[![](https://img.shields.io/github/followers/giswr?style=social)](https://github.com/giswr/)
-
-[![](https://img.shields.io/twitter/follow/FrancisOussou?style=social)](https://twitter.com/intent/follow?screen_name=FrancisOussou) ![Visitor_Badge](https://visitor-badge.laobi.icu/badge?page_id=giswr.profile)
+[![](https://img.shields.io/github/followers/giswr?style=social)](https://github.com/giswr/) [![](https://img.shields.io/twitter/follow/FrancisOussou?style=social)](https://twitter.com/intent/follow?screen_name=FrancisOussou) ![Visitor_Badge](https://visitor-badge.laobi.icu/badge?page_id=giswr.profile)
 
 
 **OussouCode/oussoucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
