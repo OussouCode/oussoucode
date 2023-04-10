@@ -1,6 +1,8 @@
 ### Francis E. Oussou
 
-![https://img.shields.io/github/followers/giswr?style=social]()
+
+
+![](https://img.shields.io/github/followers/giswr?style=social)
 
 
 **OussouCode/oussoucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
