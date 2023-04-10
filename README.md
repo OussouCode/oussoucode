@@ -5,6 +5,7 @@
 
 
 
+https://img.shields.io/static/v1?label=<FUTA>&message=<University>&color=<darkgreen>
 
 
 **OussouCode/oussoucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
