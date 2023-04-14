@@ -8,28 +8,6 @@
 
 
 
-A Python package for geospatial analysis and interactive mapping in a Jupyter environment.
-- GitHub repo: https://github.com/opengeos/leafmap
-- Documentation: https://leafmap.org
-- PyPI: https://pypi.org/project/leafmap
-- Conda-forge: https://anaconda.org/conda-forge/leafmap
-- Leafmap tutorials on YouTube: https://youtube.com/@giswqs
-- Free software: MIT license
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
