@@ -5,7 +5,7 @@
    ![Visitor_Badge](https://visitor-badge.laobi.icu/badge?page_id=giswr.profile) [![](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/giswr)
 
 
-
+My next target is to be part of a team working...
 
 
 
