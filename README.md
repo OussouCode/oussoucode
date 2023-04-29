@@ -11,9 +11,9 @@ My name is [Francis E. Oussou](giswr.github.io/), I'm a Ph.D Fellow in [West Afr
 
 ##  Publications
 
-Ndehedehe, C. E., Ferreira, V. G., Adeyeri, O. E., Correa, F. M., Usman, M., Oussou, F. E., Kalu, I., Okwuashi, O., Onojeghuo, A. O., Getirana, A., & Dewan, A. (2023). Global assessment of drought characteristics in the Anthropocene. Resources, Environment and Sustainability, 100105. https://doi.org/10.1016/j.resenv.2022.100105
+Ndehedehe, C. E., Ferreira, V. G., Adeyeri, O. E., Correa, F. M., Usman, M., Oussou, F. E., Kalu, I., Okwuashi, O., Onojeghuo, A. O., Getirana, A., & Dewan, A. (2023). Global assessment of drought characteristics in the Anthropocene. Resources, Environment and Sustainability, 100105. [DOI: 10.1016/j.resenv.2022.100105](https://doi.org/10.1016/j.resenv.2022.100105)
 
-Oussou E.F., Ndehedehe C.E., Oloukoi J., Yalo N., Boukari M. and Diaw A.T. (2022). Characterization of the hydro-geological regime of fractured aquifers in Benin (West-Africa) using multi-satellites and models. J. of Hydrol.: Regional Stud. [Doi:10.1016/j.ejrh.2021.100987](https://doi.org/10.1016/j.ejrh.2021.100987)
+Oussou E.F., Ndehedehe C.E., Oloukoi J., Yalo N., Boukari M. and Diaw A.T. (2022). Characterization of the hydro-geological regime of fractured aquifers in Benin (West-Africa) using multi-satellites and models. J. of Hydrol.: Regional Stud. [DOI: 10.1016/j.ejrh.2021.100987](https://doi.org/10.1016/j.ejrh.2021.100987)
 
 Oussou E.F., Yalo N., Ndehedehe C.E., Oloukoi J., Alassane A., Boukari M. and Gbewezoun H.G.V. (2020). Fracture aquifers identification in the Zou basin (West Africa) using Remote Sensing and GIS. Geocarto International, [DOI: 10.1080/10106049.2020.1852613](https://doi.org/10.1080/10106049.2020.1852613)
 
