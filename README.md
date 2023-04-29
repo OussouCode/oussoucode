@@ -17,7 +17,7 @@ Oussou E.F., Ndehedehe C.E., Oloukoi J., Yalo N., Boukari M. and Diaw A.T. (2022
 
 Oussou E.F., Yalo N., Ndehedehe C.E., Oloukoi J., Alassane A., Boukari M. and Gbewezoun H.G.V. (2020). Fracture aquifers identification in the Zou basin (West Africa) using Remote Sensing and GIS. Geocarto International, [DOI: 10.1080/10106049.2020.1852613](https://doi.org/10.1080/10106049.2020.1852613)
 
-Oussou E.F., Oloukoi J., Yalo N. and Boukari M. (2019). Analyse spatiale du potentiel en eau souterraine dans le bassin du Zou au sud du bénin (Afrique de l'Ouest). European Scientific Journal, Edition Vol.15, No.27, p24 http://dx.doi.org/10.19044/esj.2019.v15n27p402
+Oussou E.F., Oloukoi J., Yalo N. and Boukari M. (2019). Analyse spatiale du potentiel en eau souterraine dans le bassin du Zou au sud du bénin (Afrique de l'Ouest). European Scientific Journal, Edition Vol.15, No.27, p24 [DOI: 10.19044/esj.2019.v15n27p402](http://dx.doi.org/10.19044/esj.2019.v15n27p402)
 
     
 ## Tools
